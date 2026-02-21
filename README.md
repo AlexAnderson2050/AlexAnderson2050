@@ -38,6 +38,19 @@ My goal is not just to write code, but to think like a software engineer.
 
 ---
 
+## Current Progress
+
+| Phase | Focus Area | Status |
+|-------|------------|--------|
+| 001–040 | Fundamentals | 🟢 In Progress |
+| 041–060 | Functions & Scope | ⚪ Planned |
+| 061–080 | Files & Modules | ⚪ Planned |
+| 081–100 | Object-Oriented Programming | ⚪ Planned |
+| 101–120 | Intermediate Python | ⚪ Planned |
+| 121–140 | Practical Projects | ⚪ Planned |
+
+---
+
 ## Main Project
 
 🔹 **Python Mastery Journey**  
